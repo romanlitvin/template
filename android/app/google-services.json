@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "598567561098",
+    "firebase_url": "https://second-capsule-119910.firebaseio.com",
+    "project_id": "second-capsule-119910",
+    "storage_bucket": "second-capsule-119910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598567561098:android:e2149936bb149e11028a73",
+        "android_client_info": {
+          "package_name": "com.template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598567561098-u7aiq0jsn537gnat9tddrosn2tc76k5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr6iywkvFR7VS-3-HGeqn8ASyjmif4T20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598567561098-u7aiq0jsn537gnat9tddrosn2tc76k5v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598567561098-qbtun9un14ahulvd2ikc7j9f2gk64c6u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.template"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
